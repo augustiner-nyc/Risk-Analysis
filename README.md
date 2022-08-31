@@ -8,5 +8,5 @@ I also provide code for optimal portfolio weights according to
 - Most Diversified Portfolio (MDP)
 - Minimum Tail Dependent Portfolio (MTD)
 - Equal Risk Contributied Portfolio (ERC)
-Portfolio theory.
+theory.
 
